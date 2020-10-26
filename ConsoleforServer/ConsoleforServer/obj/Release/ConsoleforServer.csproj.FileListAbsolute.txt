@@ -1,0 +1,15 @@
+D:\Program Files (x86)\Microsoft Visual Studio\VSProjec\ConsoleforServer\ConsoleforServer\bin\Release\ConsoleforServer.exe.config
+D:\Program Files (x86)\Microsoft Visual Studio\VSProjec\ConsoleforServer\ConsoleforServer\bin\Release\ConsoleforServer.exe
+D:\Program Files (x86)\Microsoft Visual Studio\VSProjec\ConsoleforServer\ConsoleforServer\bin\Release\ConsoleforServer.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\VSProjec\ConsoleforServer\ConsoleforServer\bin\Release\Flir.Atlas.Image.dll
+D:\Program Files (x86)\Microsoft Visual Studio\VSProjec\ConsoleforServer\ConsoleforServer\bin\Release\MySql.Data.dll
+D:\Program Files (x86)\Microsoft Visual Studio\VSProjec\ConsoleforServer\ConsoleforServer\bin\Release\Flir.Cronos.Common.dll
+D:\Program Files (x86)\Microsoft Visual Studio\VSProjec\ConsoleforServer\ConsoleforServer\bin\Release\Flir.Cronos.Filter.dll
+D:\Program Files (x86)\Microsoft Visual Studio\VSProjec\ConsoleforServer\ConsoleforServer\bin\Release\Flir.Cronos.Filter.Adapter.dll
+D:\Program Files (x86)\Microsoft Visual Studio\VSProjec\ConsoleforServer\ConsoleforServer\bin\Release\Flir.FormatPlugin.IRSDK.dll
+D:\Program Files (x86)\Microsoft Visual Studio\VSProjec\ConsoleforServer\ConsoleforServer\bin\Release\Flir.Cronos.Panorama.dll
+D:\Program Files (x86)\Microsoft Visual Studio\VSProjec\ConsoleforServer\ConsoleforServer\bin\Release\MySql.Data.xml
+D:\Program Files (x86)\Microsoft Visual Studio\VSProjec\ConsoleforServer\ConsoleforServer\obj\Release\ConsoleforServer.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Microsoft Visual Studio\VSProjec\ConsoleforServer\ConsoleforServer\obj\Release\ConsoleforServer.csproj.CopyComplete
+D:\Program Files (x86)\Microsoft Visual Studio\VSProjec\ConsoleforServer\ConsoleforServer\obj\Release\ConsoleforServer.exe
+D:\Program Files (x86)\Microsoft Visual Studio\VSProjec\ConsoleforServer\ConsoleforServer\obj\Release\ConsoleforServer.pdb
