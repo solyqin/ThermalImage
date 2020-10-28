@@ -9,8 +9,8 @@ D:\Program Files (x86)\Microsoft Visual Studio\VSProjec\ConsoleforServer\Console
 D:\Program Files (x86)\Microsoft Visual Studio\VSProjec\ConsoleforServer\ConsoleforServer\bin\x64\Release\Flir.FormatPlugin.IRSDK.dll
 D:\Program Files (x86)\Microsoft Visual Studio\VSProjec\ConsoleforServer\ConsoleforServer\bin\x64\Release\Flir.Cronos.Panorama.dll
 D:\Program Files (x86)\Microsoft Visual Studio\VSProjec\ConsoleforServer\ConsoleforServer\bin\x64\Release\MySql.Data.xml
-D:\Program Files (x86)\Microsoft Visual Studio\VSProjec\ConsoleforServer\ConsoleforServer\obj\x64\Release\ConsoleforServer.csprojAssemblyReference.cache
 D:\Program Files (x86)\Microsoft Visual Studio\VSProjec\ConsoleforServer\ConsoleforServer\obj\x64\Release\ConsoleforServer.csproj.CoreCompileInputs.cache
 D:\Program Files (x86)\Microsoft Visual Studio\VSProjec\ConsoleforServer\ConsoleforServer\obj\x64\Release\ConsoleforServer.csproj.CopyComplete
 D:\Program Files (x86)\Microsoft Visual Studio\VSProjec\ConsoleforServer\ConsoleforServer\obj\x64\Release\ConsoleforServer.exe
 D:\Program Files (x86)\Microsoft Visual Studio\VSProjec\ConsoleforServer\ConsoleforServer\obj\x64\Release\ConsoleforServer.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\VSProjec\ConsoleforServer\ConsoleforServer\obj\x64\Release\ConsoleforServer.csprojAssemblyReference.cache
